@@ -1,5 +1,5 @@
 # Sitecore.Support.109746
-[MVC] &quot;Redirect item is null&quot; exception on frontend
+This patch prevents from the `Redirect item is null` exception when using `ASP.NET MVC Form`.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.109746/blob/master/LICENSE).  
